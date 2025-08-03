@@ -1,0 +1,2 @@
+- Learning how neural networks learn
+- Understanding how gradients are computed (backpropagation)
